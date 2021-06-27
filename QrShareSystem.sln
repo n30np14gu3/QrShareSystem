@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QrShareSystem_generator", "QrShareSystem_generator\QrShareSystem_generator.csproj", "{6B859EFF-7EB5-4ADA-B416-5FF97808EE76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QrShareSystem.Core", "QrShareSystem.Core\QrShareSystem.Core.csproj", "{034DC505-271E-4C58-BF96-C9B4D424498B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QrShareSystem_office", "QrShareSystem_office\QrShareSystem_office.csproj", "{A45D8635-DBE5-43C4-A835-587CB8C0CA2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QrShareSystem_manager", "QrShareSystem_manager\QrShareSystem_manager.csproj", "{3A91927B-C3F9-4325-A937-8F5781DCA507}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B859EFF-7EB5-4ADA-B416-5FF97808EE76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B859EFF-7EB5-4ADA-B416-5FF97808EE76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B859EFF-7EB5-4ADA-B416-5FF97808EE76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B859EFF-7EB5-4ADA-B416-5FF97808EE76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{034DC505-271E-4C58-BF96-C9B4D424498B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{034DC505-271E-4C58-BF96-C9B4D424498B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{034DC505-271E-4C58-BF96-C9B4D424498B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{034DC505-271E-4C58-BF96-C9B4D424498B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A45D8635-DBE5-43C4-A835-587CB8C0CA2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A45D8635-DBE5-43C4-A835-587CB8C0CA2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A45D8635-DBE5-43C4-A835-587CB8C0CA2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A45D8635-DBE5-43C4-A835-587CB8C0CA2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A91927B-C3F9-4325-A937-8F5781DCA507}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A91927B-C3F9-4325-A937-8F5781DCA507}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A91927B-C3F9-4325-A937-8F5781DCA507}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A91927B-C3F9-4325-A937-8F5781DCA507}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {589E7AB1-4F78-4D79-B6DB-AF07F1E64E87}
+	EndGlobalSection
+EndGlobal
